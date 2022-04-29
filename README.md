@@ -27,3 +27,10 @@ Collection of icons with their attribution to the authors
 <img width="3%" src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1629301660/icons/kanban_oifhu7.png"/>
 <a href="https://www.flaticon.es/iconos-gratis/kanban" title="kanban iconos">Kanban iconos creados por Freepik - Flaticon</a>
 ```
+<img width="3%" src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1651248955/clone/youtube_lcgelh.png"/>
+<a href="https://www.flaticon.es/iconos-gratis/youtube" title="youtube iconos">Youtube iconos creados por NajmunNahar - Flaticon</a>
+
+```HTML
+<img width="3%" src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1651248955/clone/youtube_lcgelh.png"/>
+<a href="https://www.flaticon.es/iconos-gratis/youtube" title="youtube iconos">Youtube iconos creados por NajmunNahar - Flaticon</a>
+```
