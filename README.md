@@ -2,10 +2,6 @@
 
 Collection of icons with their attribution to the authors
 
-[![Website](https://img.shields.io/website?down_message=fdgdg&style=plastic&up_message=gggg&url=https://github.com/Rick-torrellas?tab=repositories&q=template&type=&language=&sort=)](https://www.youtube.com/watch?v=y2ECgOhoDGs)
-
-![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Fshields.io%2Fcategory%2Ffunding)
-
 ---
 <img src="" alt="template" width="3%"><br>
 <img src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1632064143/icons/pill_sakm1z.svg" alt="template" width="3%">
